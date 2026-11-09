@@ -18,5 +18,5 @@ A Python developer who loves coding and building new things! 🐍💻
 </p>
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiralivalinezhadav-cyber&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amiralivalinezhadav-cyber&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
 </p>
